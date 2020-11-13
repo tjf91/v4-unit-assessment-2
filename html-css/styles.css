@@ -123,6 +123,7 @@ h3{
     bottom: 1%;
     right: 1%;
     height: 2rem;
+    z-index: 2;
 }
 footer{
     height: 10vh;
@@ -168,5 +169,10 @@ footer{
     width: 80%;
 }
 .listitems{
-    margin: auto;
+    margin: auto;    
+}
+h5{
+    position: relative;
+    
+    font-size: 2em;
 }
